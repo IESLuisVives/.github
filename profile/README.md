@@ -20,5 +20,5 @@
 <p>P.º de la Ermita, 15.</p> 
 <p>28918 Leganés, Madrid. </p>
 <p>Teléfono: 916 80 77 12</p>
-![Mapa](https://goo.gl/maps/DMPR5XAaozDPgjrx7)
+[GitHub](https://goo.gl/maps/DMPR5XAaozDPgjrx7)
 
