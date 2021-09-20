@@ -16,9 +16,9 @@
 - Técnico Superior en Administración de Sistemas Informáticos en Red (vespertino).
 
 <h2>CONTACTO</h2>
-IES LUIS VIVES
-P.º de la Ermita, 15, 
-28918 Leganés, Madrid
-Teléfono: 916 80 77 12
+<p>IES LUIS VIVES</p>
+<p>P.º de la Ermita, 15.</p>ººº 
+<p>28918 Leganés, Madrid. </p>
+<p>Teléfono: 916 80 77 12</p>
 
 
