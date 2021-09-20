@@ -9,15 +9,18 @@
 <h1 align="center">👋 Hola, Bienvenid@ al Repositorio del Departamento de Informática de IES Luis Vives 💻 </h1>
 
 <h2>TITULACIONES</h2>
-- Técnico en Sistemas Microinformáticos y Redes (Dos grupos/Dual).
-- Técnico Superior en Desarrollo de Apliaciones Multiplataforma.
-- Técnico Superior en Desarrollo de Aplicaciones Web (vespertino).
-- Técnico Superior en Administración de Sistemas Informáticos en Red (vespertino).
+* Técnico en Sistemas Microinformáticos y Redes (Dos grupos/Dual).
+* Técnico Superior en Desarrollo de Apliaciones Multiplataforma.
+* Técnico Superior en Desarrollo de Aplicaciones Web (vespertino).
+* Técnico Superior en Administración de Sistemas Informáticos en Red (vespertino).
 
 <h2>CONTACTO</h2>
 IES LUIS VIVES
+
 P.º de la Ermita, 15, 
+
 28918 Leganés, Madrid
+
 Teléfono: 916 80 77 12
 
 
