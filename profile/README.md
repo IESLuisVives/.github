@@ -17,11 +17,8 @@
 
 <h2>CONTACTO</h2>
 IES LUIS VIVES
-
 P.º de la Ermita, 15, 
-
 28918 Leganés, Madrid
-
 Teléfono: 916 80 77 12
 
 
